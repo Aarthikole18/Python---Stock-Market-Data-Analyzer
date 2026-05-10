@@ -106,11 +106,6 @@ Through this project, I learned:
 
 ---
 
-# ⚠️ Disclaimer
-
-This project is created for educational purposes only and should not be considered financial advice.
-
----
 
 # 🌟 Future Improvements
 
