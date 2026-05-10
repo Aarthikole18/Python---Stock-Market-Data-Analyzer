@@ -1,0 +1,22 @@
+
+STOCK MARKET DATA ANALYSIS REPORT
+=================================
+
+Ticker: TSLA
+
+Highest Price: 488.54
+Lowest Price: 23.37
+Average Closing Price: 213.43
+Volatility: 0.0423
+
+Latest RSI: 51.00
+
+Trading Signal: HOLD
+
+Signal Logic:
+BUY  -> RSI below 30
+SELL -> RSI above 70
+HOLD -> Neutral zone
+
+DISCLAIMER:
+This project is for educational purposes only and not financial advice.

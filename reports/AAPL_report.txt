@@ -1,0 +1,15 @@
+
+STOCK MARKET DATA ANALYSIS REPORT
+=================================
+
+Ticker: AAPL
+
+Highest Price: 260.10
+Lowest Price: 53.15
+Average Closing Price: 154.11
+Volatility: 0.0200
+
+This report is generated using historical stock market data.
+
+DISCLAIMER:
+This project is for educational purposes only and not financial advice.
